@@ -1,7 +1,16 @@
 # File Type
 
 <details>
-<summary>test</summary>
+<summary>.jpg/jpeg</summary>
 
-- hello
+- Strings
+- Binwalk
+- Steghide
+</details>
+
+<details>
+<summary>.png</summary>
+
+- Strings
+- Binwalk
 </details>
