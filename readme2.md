@@ -1,7 +1,7 @@
 # File Type
 
 <details>
-<summary>.jpg/jpeg</summary>
+<summary>[AperiSolve](https://www.aperisolve.com/)</summary>
 
 - Strings
 - Binwalk
