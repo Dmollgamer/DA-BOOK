@@ -1,7 +1,8 @@
 # File Type
 
 <details>
-<summary> [AperiSolve](https://www.aperisolve.com/) </summary>
+  
+<summary>[AperiSolve](https://www.aperisolve.com/)</summary>
 
 - Strings
 - Binwalk
